@@ -1,0 +1,5 @@
+create an app that asks the user to input a number. 
+Use javascript code to generate a random number between 1 and 10.
+Ask the user to input a number
+if the user inputs the correct number, it will output correct number else it will output wrong number.
+it will ask the user to click yes if he want to continue else click no to cancel.
